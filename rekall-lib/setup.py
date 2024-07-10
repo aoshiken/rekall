@@ -42,10 +42,10 @@ def find_data_files(source):
 
 install_requires = [
     "arrow==0.10.0",
-    "future==0.16.0",
+    "future==0.18.1",
     # We need to upgrade but this seems to break Rekall.
     #    "sortedcontainers >= 2.0, < 3.0",
-    "sortedcontainers==1.5.7",
+    "sortedcontainers==2.0.5",
 ]
 
 data_files = (find_data_files("test_data") +
