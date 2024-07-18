@@ -61,7 +61,7 @@ install_requires = [
     'ipaddr==2.2.0',
     'parsedatetime==2.4',
     "psutil >= 5.0, < 6.0",
-    'pyaff4 ==0.33.dev11',
+    'pyaff4 ==0.33.dev12',
     'pycryptodome==3.7.1',
     'pyelftools==0.26',
     'pyparsing==2.2.1',
