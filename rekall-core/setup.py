@@ -74,7 +74,7 @@ install_requires = [
 
     # Should match exactly the version of this package.
     'rekall-lib',
-    'rekall-yara==3.6.3.1',
+    'rekall-yara==4.5.1.1',
 ]
 
 
